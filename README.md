@@ -21,9 +21,3 @@ This is a simple Python project that scrapes news headlines from [1News.org](htt
 - `numpy` (optional, imported but not used in this version)
 
 ---
-
-## Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/AmitKumarSinghAI/web_scrap_of_news.git
