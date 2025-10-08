@@ -7,7 +7,7 @@ url = "https://1news.org/?gad_source=1&gad_campaignid=21118567184&gbraid=0AAAAAD
 
 file = "news.txt"
 
-def fetch_news():
+def fetch_new():
     try:
         # Make HTTP request
         response = requests.get(url)
