@@ -1,6 +1,6 @@
 # Web Scraper for News Headlines
 
-This is a simple Python project that scrapes news headlines from [1News.org](https://1news.org) and saves them to a text file.
+This is a simple Python 3 project that scrapes news headlines from [1News.org](https://1news.org) and saves them to a text file.
 
 ---
 
