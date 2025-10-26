@@ -19,5 +19,4 @@ This is a simple Python 3 project that scrapes news headlines from [1News.org](h
 - `BeautifulSoup` (`bs4`) – to parse HTML
 - `lxml` parser – for faster HTML parsing
 - `numpy` (optional, imported but not used in this version)
-
 ---
