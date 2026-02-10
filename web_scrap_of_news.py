@@ -1,7 +1,6 @@
 import numpy as np
 import requests
 from bs4 import BeautifulSoup
-import pandas
 
 # Define URL
 url = "https://1news.org/?gad_source=1&gad_campaignid=21118567184&gbraid=0AAAAADmKmh0I7cntw1ku3biaZLC9u0rva&gclid=Cj0KCQjwndHEBhDVARIsAGh0g3AGWLELKHtjuFPrhXtaIKrLlG16S63YQ784pvWD-2PjwRfRq2L_2R8aAlKtEALw_wcB"
