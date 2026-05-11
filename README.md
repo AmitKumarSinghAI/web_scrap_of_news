@@ -21,3 +21,5 @@ This is a simple Python 3 project that scrapes news headlines from [1News.org](h
 - `numpy` (optional, imported but not used in this version)
   
 ---
+
+
